@@ -12,7 +12,7 @@ settings:
     - version-number: "11.5"
       url: /storagegrid-115
     - version-number: "11.9"
-      url: /storagegrid-119
+      url: /storagegrid
     - version-number: "11.8"
       url: /storagegrid-118         
     - version-number: "11.7"
